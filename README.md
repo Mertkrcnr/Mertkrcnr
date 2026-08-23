@@ -21,7 +21,7 @@ Bilgisayar Mühendislik Öğrenci · TEKNOFEST 2026 Takım Lideri (LyraCore) · 
 <br>
 <div align="center">
   <a href="mailto:mertkaracinar8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Mertkrcnr"><img src="https://img.shields.io/badge/GitHub-twoB4R?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Mertkrcnr"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 <br>
 
