@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mertkrcnr&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Mertkrcnr&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
   <br>
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 </div>
