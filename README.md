@@ -9,19 +9,9 @@
 </div>
 <br>
 
-### Mert Karaçınar
-Bilgisayar Mühendislik Öğrenci · TEKNOFEST 2026 Takım Lideri (LyraCore) · Edge AI ve Embedded Sistemleri
-
-- **TEKNOFEST 2026** — Takım Lideri (LyraCore), Tarım Teknolojileri Yarışması
-- **Yerel-İz** — internet olmadan hayvanların sağlığını izleyen Edge AI sistemi (ESP32 + MLX90614 + MPU6050 + 433 MHz LoRa)
-- **LocalRAG** — Microsoft Foundry Local SDK ile tamamen çevrimdışı (offline) RAG asistanı
-- Embedded firmware, Python veri analizi (K-Means + Isolation Forest), SQLite, Flutter
-- Malatya Turgut Özal Üniversitesi — Bilgisayar Mühendislik
-
-<br>
 <div align="center">
-  <a href="mailto:mertkaracinar8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Mertkrcnr"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:mertkaracinar8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/Mertkrcnr"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 <br>
 
@@ -41,5 +31,3 @@ Bilgisayar Mühendislik Öğrenci · TEKNOFEST 2026 Takım Lideri (LyraCore) · 
 </div>
 <br>
 
-⭐ Ger kanalın: **github.com/Mertkrcnr** · ✉️ **mertkaracinar8@gmail.com**
-">
