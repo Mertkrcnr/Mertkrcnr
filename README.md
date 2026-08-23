@@ -13,9 +13,9 @@
 Bilgisayar Mühendislik Öğrenci · TEKNOFEST 2026 Takım Lideri (LyraCore) · Edge AI ve Embedded Sistemleri
 
 - **TEKNOFEST 2026** — Takım Lideri (LyraCore), Tarım Teknolojileri Yarışması
-- **Yerel-İz** — internet olmadan hayvankan sağlığını izliyen Edge AI sistemi (ESP32 + MLX90614 + MPU6050 + 433MHz LoRa)
+- **Yerel-İz** — internet olmadan hayvanların sağlığını izleyen Edge AI sistemi (ESP32 + MLX90614 + MPU6050 + 433 MHz LoRa)
 - **LocalRAG** — Microsoft Foundry Local SDK ile tamamen çevrimdışı (offline) RAG asistanı
-- Embedded firmware, Python analiz (K-Means + Isolation Forest), SQLite, Flutter
+- Embedded firmware, Python veri analizi (K-Means + Isolation Forest), SQLite, Flutter
 - Malatya Turgut Özal Üniversitesi — Bilgisayar Mühendislik
 
 <br>
