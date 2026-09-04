@@ -15,6 +15,25 @@
 </div>
 <br>
 
+## 🚀 About Me
+
+I am a **Computer Engineering student** and an **Edge AI & Embedded Systems Developer**. My primary focus is bridging the gap between high-level Artificial Intelligence and low-level hardware to create autonomous, efficient, and offline-capable systems.
+
+- 🎓 **Studying:** Computer Engineering
+- 🎯 **Focus:** Edge AI, Embedded Systems, and Sovereign Intelligence
+- 🛠️ **Core Interests:** LLM Optimization, Hardware-Software Co-design, and Industrial AI
+- 💡 **Philosophy:** "Bringing intelligence to the edge, where it actually matters."
+
+## 🛠️ Current Focus & Projects
+
+| Project | Role | Description |
+| :--- | :--- | :--- |
+| **Yerel-İz** | Team Lead | Edge AI cattle monitoring system for **TEKNOFEST 2026**. Integrating WT32-ETH01, LoRa, and ML for real-time livestock tracking. |
+| **S-IDE** | Lead Architect | Sovereign Intelligence & Discovery Engine. An evolutionary pipeline utilizing Knowledge Graphs for synthetic intuition. |
+| **LocalRAG** | Developer | Offline RAG Assistant leveraging Microsoft Foundry Local SDK for privacy-first knowledge retrieval. |
+
+<br>
+
 <div align="center">
   <b>Diller & Framework</b> &nbsp;
   <img src="https://skillicons.dev/icons?i=python,cpp,arduino,flutter,html,css&theme=dark" alt="langs" width="480"/>
@@ -29,5 +48,3 @@
   <br>
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 </div>
-<br>
-
